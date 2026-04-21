@@ -137,3 +137,25 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# =========================
+# REACT FRONTEND (CLIENT)
+# =========================
+client/node_modules/
+client/dist/
+client/.env
+client/.env.*
+
+# =========================
+# FLASK BACKEND (SERVER)
+# =========================
+server/venv/
+server/__pycache__/
+server/.env
+*.pyc
+
+# =========================
+# OS GENERATED FILES
+# =========================
+.DS_Store
+Thumbs.db
