@@ -1,2 +1,1 @@
-# RossDraw
-AI (Actual Intelligence) generated art web app
+Art-sharing social media web app, enabled with websockets and vite.
